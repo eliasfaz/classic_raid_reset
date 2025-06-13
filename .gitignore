@@ -1,0 +1,12 @@
+# Node.js dependencies
+node_modules/
+
+# packages
+package-lock.json
+
+# Screenshots or images
+*.png
+
+# Bash files
+raid_schedule.sh
+start.sh
